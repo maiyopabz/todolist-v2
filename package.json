@@ -2,5 +2,23 @@
   "dependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2"
-  }
+  },
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiyopabz/todolist-v2.git"
+  },
+  "author": "maiyo p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiyopabz/todolist-v2/issues"
+  },
+  "homepage": "https://github.com/maiyopabz/todolist-v2#readme",
+  "description": ""
 }
